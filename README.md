@@ -11,7 +11,7 @@ Different elements from Demoqa is tested and Automated like Writing Texts ,handl
 
 ### Technology:
 
-* Tool: Selenium
+* Tool: Selenium WebDriver
 * IDE: Intellij
 * Build tool: Gradle
 * Language: Java
